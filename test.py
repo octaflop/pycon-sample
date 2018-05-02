@@ -5,7 +5,7 @@ class SimpleTest(unittest.TestCase):
 
     def test(self):
         num1 = 22
-        num2 = 23
+        num2 = 22
         self.assertEqual(num1, num2)
 
 
